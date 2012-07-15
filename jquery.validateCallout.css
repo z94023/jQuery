@@ -1,0 +1,24 @@
+.updnValidatorCallout {
+    background-color: #FFCCCC;
+    color: #990000;
+    margin: -5px 0 0 10px;
+    padding: 5px;
+    position: relative;
+}
+.updnValidatorCalloutPointer {
+    border-color: transparent #FFCCCC transparent -moz-use-text-color;
+    border-style: solid solid solid none;
+    border-width: 7px 10px 7px 0;
+    height: 0;
+    left: 0;
+    margin: 0 0 0 -10px;
+    position: absolute;
+    top: 7px;
+    width: 0;
+}
+.updnValidationErrorInput {
+    background-color: #FFCCCC;
+}
+.updnValidationErrorLabel {
+    color: #990000;
+}
